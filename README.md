@@ -6,6 +6,12 @@
  โดย Tool ที่จะนำเสนอให้ลองใช้นั้นคือ [cmusphinx](https://github.com/cmusphinx/g2p-seq2seq) เพราะมี pipeline การเตรียม Data and Training ที่ง่าย ๆ มาก ๆ
  
  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qmJMbBn0Yp0-Sakej3ADDdWZKVmINCfY?usp=sharing)
+
+## References and Related repos
+[cmusphinx](https://github.com/cmusphinx/g2p-seq2seq) The tool does Grapheme-to-Phoneme (G2P) conversion using transformer model from tensor2tensor toolkit
+
+[G2P Sequence-to-Sequence](https://medium.com/nectec/g2p-sequence-to-sequence-53a843d6702a) ใช้ Sequence-to-Sequence G2P toolkit ของ [cmusphinx](https://github.com/cmusphinx/g2p-seq2seq)
+
 ## license
 NECTEC licensed TSync2 under CC-BY-NC-SA
 
